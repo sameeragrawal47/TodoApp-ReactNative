@@ -1,0 +1,7 @@
+    Steps to setup:
+        Download and clone the project
+        I have used Firebase as backend, you will need firebase dependency
+        Open terminal and Navigate to project’s directory
+        Type this command in same terminal: npm install firebase —save
+        Open another terminal, Navigate to project’s directory and run following command:
+        react-native run-ios or you can also open project in Xcode and click on Run
